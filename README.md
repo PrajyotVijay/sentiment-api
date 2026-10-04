@@ -4,7 +4,7 @@ A FastAPI service that predicts whether a product review is **positive or negati
 Model: TF-IDF + Logistic Regression (scikit-learn) trained on 20,000 Amazon reviews.
 Built for the *Getting Started with ML in Production* workshop (IIT Madras).
 
-**Live API:** <PASTE YOUR RENDER URL HERE>  (docs at `/docs`)
+**Live API:** https://sentiment-api-iqrm.onrender.com/docs
 
 ## What the model predicts
 Given review text, it returns `positive` or `negative` with a confidence score.
